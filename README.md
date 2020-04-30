@@ -10,6 +10,6 @@ Second step is to create a key by starting the key_gen script, after the script 
 
 Third step is to start enc_file script, it will prompt TWO times, the first prompt requires you to choose key.key, that's the encrypting part of the script, the second prompt requires you to choose a file which you want to encrypt, for example you can encrypt the Random_password file. When the script is executed there will be a new file enc_file.encrypted, there is your encrypted password. After you encrypt the file with your passwords you can delete the original file!
 
-Last step is similar as the third, the first prompt requires you to choose a key with which you want to DECRYPT the file, that key is stored under key.key name, second prompt requires you to choose the encrypted file, enc_file.encrypted, and there will be a new file named decrypted_file.
+Last step is similar as the third, start the decrypt_file and the first prompt requires you to choose a key with which you want to DECRYPT the file, that key is stored under key.key name, second prompt requires you to choose the encrypted file, enc_file.encrypted, and there will be a new file named decrypted_file.
 
 You are done!
