@@ -1,5 +1,5 @@
 # ecrypt-decrypt
-Encrypt your files
+
 The following steps explain how this works and all of this doesnt have to be used, you can just generate random passwords for your accounts and just store the file somewhere else.
 
 Also it's recommended that you store file KEY.KEY somewhere else because it is used to encrypt/decrypt the file with your passwords.
